@@ -1,4 +1,4 @@
-/* Generated on: Tue Dec 13 2022 20:43:38 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed Dec 14 2022 01:39:36 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2488,9 +2488,9 @@
    .image-5 {
      margin-right: 0px;
      margin-bottom: 0px;
-     margin-left: auto;
-     padding: 40px 102px 0px 115px;
-     border-radius: 80px;
+     margin-left: 46px;
+     padding: 20px 0px 20px 98px;
+     border-radius: 0px;
    }
    
    .card-gemelo-digital {
@@ -3026,9 +3026,11 @@
    
      .image-5 {
        position: absolute;
+       margin-right: auto;
+       margin-left: auto;
        padding-top: 100px;
-       padding-right: 64px;
-       padding-left: 69px;
+       padding-right: 60px;
+       padding-left: 60px;
        border-radius: 0px;
      }
    
@@ -3888,7 +3890,7 @@
    
      .one-page-height {
        margin-bottom: 3468px;
-       padding: 0px 0px 1036px;
+       padding: 0px 0px 1187px;
      }
    
      .one-page-height h1 {
@@ -3929,8 +3931,8 @@
        right: 0%;
        bottom: 0%;
        height: auto;
-       margin-top: 540px;
-       margin-bottom: -8799px;
+       margin-top: 442px;
+       margin-bottom: -8784px;
        padding-top: 0px;
        padding-bottom: 0px;
      }
@@ -4087,10 +4089,11 @@
      }
    
      .text-block-26 {
-       top: 8157px;
+       top: 8178px;
+       margin-top: auto;
        margin-bottom: -47px;
-       padding: 29px 10px 0px;
-       font-size: 8px;
+       padding: 0px 10px;
+       font-size: 6px;
      }
    
      .text-block-27 {
@@ -4098,8 +4101,9 @@
      }
    
      .image-5 {
-       top: 18907.9px;
-       margin-top: 449px;
+       position: absolute;
+       top: 18602.9px;
+       margin-top: 951px;
        padding: 0px 10px;
      }
    
@@ -4126,9 +4130,9 @@
    
      .text-block-29 {
        position: relative;
-       left: -1px;
-       top: -259px;
-       margin: 0px 0px 0px -24px;
+       left: 26px;
+       top: -226px;
+       margin: auto 0px 0px -67px;
        padding: 0px;
        font-family: Exo, sans-serif;
        color: #c100fc;
